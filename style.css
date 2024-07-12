@@ -102,8 +102,31 @@ button {
     margin-bottom: 50px;
     
   }
-  
 
+  .img {
+    height: 200px;
+    width: 150px;
+
+  }
+
+ .card {
+  width: 300px;
+
+ }
+
+ .card-text {
+  
+ }
+  
+  .card-img-top {
+    width: 250px;
+    margin-bottom: 20px;
+  }
+
+  .card-title {
+font-size: 25px;
+
+}
    footer {
     font-size: 10px;
     text-align: center;
